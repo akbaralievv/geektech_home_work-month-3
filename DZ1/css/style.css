@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.block{
+    margin-top: 50px;
+    position: relative;
+    border: 1px solid;
+    width: 400px;
+    height: 400px;
+}
+#block_item{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: black;
+}
+#btn{
+    background-color: black;
+    color: white;
+    margin: 50% 50%;
+}
