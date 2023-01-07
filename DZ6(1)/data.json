@@ -1,0 +1,17 @@
+{
+    "person1":{
+        "name":"KAIRAT",
+        "age":20,
+        "date":"24/06/2002"
+    },
+    "person2":{
+        "name":"NURDIN",
+        "age":20,
+        "date":"01/06/2002"
+    },
+    "person3":{
+        "name":"ALISHER",
+        "age":20,
+        "date":"08/12/2002"
+    }
+}
